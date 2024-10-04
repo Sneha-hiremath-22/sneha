@@ -1,1 +1,1 @@
-# sneha-this project is about sneha
+# sneha-this project is about Software tools
